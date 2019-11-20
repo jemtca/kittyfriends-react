@@ -1,16 +1,25 @@
 {
-  "main.css": "/kittyfriends-react/static/css/main.e37dbde0.chunk.css",
-  "main.js": "/kittyfriends-react/static/js/main.9699d8bf.chunk.js",
-  "main.js.map": "/kittyfriends-react/static/js/main.9699d8bf.chunk.js.map",
-  "runtime~main.js": "/kittyfriends-react/static/js/runtime~main.2042e159.js",
-  "runtime~main.js.map": "/kittyfriends-react/static/js/runtime~main.2042e159.js.map",
-  "static/css/2.0d413e3e.chunk.css": "/kittyfriends-react/static/css/2.0d413e3e.chunk.css",
-  "static/js/2.7cb68033.chunk.js": "/kittyfriends-react/static/js/2.7cb68033.chunk.js",
-  "static/js/2.7cb68033.chunk.js.map": "/kittyfriends-react/static/js/2.7cb68033.chunk.js.map",
-  "index.html": "/kittyfriends-react/index.html",
-  "precache-manifest.de4314ea98fbb2142048f04d80a7c903.js": "/kittyfriends-react/precache-manifest.de4314ea98fbb2142048f04d80a7c903.js",
-  "service-worker.js": "/kittyfriends-react/service-worker.js",
-  "static/css/2.0d413e3e.chunk.css.map": "/kittyfriends-react/static/css/2.0d413e3e.chunk.css.map",
-  "static/css/main.e37dbde0.chunk.css.map": "/kittyfriends-react/static/css/main.e37dbde0.chunk.css.map",
-  "static/media/App.css": "/kittyfriends-react/static/media/SEGA.12a3db8b.woff"
+  "files": {
+    "main.css": "/kittyfriends-react/static/css/main.ce640157.chunk.css",
+    "main.js": "/kittyfriends-react/static/js/main.29999757.chunk.js",
+    "main.js.map": "/kittyfriends-react/static/js/main.29999757.chunk.js.map",
+    "runtime-main.js": "/kittyfriends-react/static/js/runtime-main.1358f0c6.js",
+    "runtime-main.js.map": "/kittyfriends-react/static/js/runtime-main.1358f0c6.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/kittyfriends-react/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f81e289a.chunk.js": "/kittyfriends-react/static/js/2.f81e289a.chunk.js",
+    "static/js/2.f81e289a.chunk.js.map": "/kittyfriends-react/static/js/2.f81e289a.chunk.js.map",
+    "index.html": "/kittyfriends-react/index.html",
+    "precache-manifest.e9d82fbf893234ca8ea5b9cfc1344b6c.js": "/kittyfriends-react/precache-manifest.e9d82fbf893234ca8ea5b9cfc1344b6c.js",
+    "service-worker.js": "/kittyfriends-react/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/kittyfriends-react/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.ce640157.chunk.css.map": "/kittyfriends-react/static/css/main.ce640157.chunk.css.map",
+    "static/media/App.css": "/kittyfriends-react/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1358f0c6.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f81e289a.chunk.js",
+    "static/css/main.ce640157.chunk.css",
+    "static/js/main.29999757.chunk.js"
+  ]
 }
