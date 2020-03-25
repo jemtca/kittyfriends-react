@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/kittyfriends-react/static/css/main.e4bffd19.chunk.css",
-    "main.js": "/kittyfriends-react/static/js/main.fc9654b3.chunk.js",
-    "main.js.map": "/kittyfriends-react/static/js/main.fc9654b3.chunk.js.map",
-    "runtime-main.js": "/kittyfriends-react/static/js/runtime-main.ae8b7e7c.js",
-    "runtime-main.js.map": "/kittyfriends-react/static/js/runtime-main.ae8b7e7c.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/kittyfriends-react/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.c0394c3d.chunk.js": "/kittyfriends-react/static/js/2.c0394c3d.chunk.js",
-    "static/js/2.c0394c3d.chunk.js.map": "/kittyfriends-react/static/js/2.c0394c3d.chunk.js.map",
+    "main.css": "/kittyfriends-react/static/css/main.27dfc156.chunk.css",
+    "main.js": "/kittyfriends-react/static/js/main.12b1c877.chunk.js",
+    "main.js.map": "/kittyfriends-react/static/js/main.12b1c877.chunk.js.map",
+    "runtime-main.js": "/kittyfriends-react/static/js/runtime-main.cf1820ee.js",
+    "runtime-main.js.map": "/kittyfriends-react/static/js/runtime-main.cf1820ee.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/kittyfriends-react/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.06e4f390.chunk.js": "/kittyfriends-react/static/js/2.06e4f390.chunk.js",
+    "static/js/2.06e4f390.chunk.js.map": "/kittyfriends-react/static/js/2.06e4f390.chunk.js.map",
     "index.html": "/kittyfriends-react/index.html",
-    "precache-manifest.19168a3f2a5962a5831f8efb2f155a0b.js": "/kittyfriends-react/precache-manifest.19168a3f2a5962a5831f8efb2f155a0b.js",
+    "precache-manifest.16a4864a95a3e842fe460c94e1c3802d.js": "/kittyfriends-react/precache-manifest.16a4864a95a3e842fe460c94e1c3802d.js",
     "service-worker.js": "/kittyfriends-react/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/kittyfriends-react/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.e4bffd19.chunk.css.map": "/kittyfriends-react/static/css/main.e4bffd19.chunk.css.map",
-    "static/js/2.c0394c3d.chunk.js.LICENSE.txt": "/kittyfriends-react/static/js/2.c0394c3d.chunk.js.LICENSE.txt",
+    "static/css/2.3b6f1bda.chunk.css.map": "/kittyfriends-react/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.27dfc156.chunk.css.map": "/kittyfriends-react/static/css/main.27dfc156.chunk.css.map",
+    "static/js/2.06e4f390.chunk.js.LICENSE.txt": "/kittyfriends-react/static/js/2.06e4f390.chunk.js.LICENSE.txt",
     "static/media/App.css": "/kittyfriends-react/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae8b7e7c.js",
-    "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.c0394c3d.chunk.js",
-    "static/css/main.e4bffd19.chunk.css",
-    "static/js/main.fc9654b3.chunk.js"
+    "static/js/runtime-main.cf1820ee.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.06e4f390.chunk.js",
+    "static/css/main.27dfc156.chunk.css",
+    "static/js/main.12b1c877.chunk.js"
   ]
 }
