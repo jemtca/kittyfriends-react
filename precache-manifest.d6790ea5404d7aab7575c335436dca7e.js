@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6e4bad71681ef7a5d425d0ce0b06ab5",
+    "revision": "c6821a6312887a4b508e558a18d8d9ca",
     "url": "/kittyfriends-react/index.html"
   },
   {
-    "revision": "5aa8ea912c9f48563bc6",
-    "url": "/kittyfriends-react/static/css/2.3c03f26f.chunk.css"
+    "revision": "82272b57df1b8224ca38",
+    "url": "/kittyfriends-react/static/css/2.038644eb.chunk.css"
   },
   {
     "revision": "b1501b804052bd32d95f",
     "url": "/kittyfriends-react/static/css/main.27dfc156.chunk.css"
   },
   {
-    "revision": "5aa8ea912c9f48563bc6",
-    "url": "/kittyfriends-react/static/js/2.b70a37e3.chunk.js"
+    "revision": "82272b57df1b8224ca38",
+    "url": "/kittyfriends-react/static/js/2.5962f562.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/kittyfriends-react/static/js/2.b70a37e3.chunk.js.LICENSE.txt"
+    "revision": "f5fc2afae58c4ffc30c6148864765d4b",
+    "url": "/kittyfriends-react/static/js/2.5962f562.chunk.js.LICENSE.txt"
   },
   {
     "revision": "b1501b804052bd32d95f",
