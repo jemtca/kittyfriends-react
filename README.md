@@ -1,4 +1,3 @@
-
 # KittyFriends Project
 Repository to upload the kittyfriends project.
 
@@ -6,7 +5,7 @@ Repository to upload the kittyfriends project.
 A simple react app that filters based on user input in the search field.
 
 * Initial idea
-    * Display cards with unique images, names and emails.
+    * Display cards with unique images, names, and emails.
 
 * Improvements
     * Used of a free online REST API to get fake data.
