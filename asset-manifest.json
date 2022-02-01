@@ -1,24 +1,14 @@
 {
   "files": {
-    "main.css": "/kittyfriends-react/static/css/main.6f55125f.chunk.css",
-    "main.js": "/kittyfriends-react/static/js/main.bcfb9b57.chunk.js",
-    "main.js.map": "/kittyfriends-react/static/js/main.bcfb9b57.chunk.js.map",
-    "runtime-main.js": "/kittyfriends-react/static/js/runtime-main.92bea783.js",
-    "runtime-main.js.map": "/kittyfriends-react/static/js/runtime-main.92bea783.js.map",
-    "static/css/2.c1f4f5f4.chunk.css": "/kittyfriends-react/static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.563a13b7.chunk.js": "/kittyfriends-react/static/js/2.563a13b7.chunk.js",
-    "static/js/2.563a13b7.chunk.js.map": "/kittyfriends-react/static/js/2.563a13b7.chunk.js.map",
+    "main.css": "/kittyfriends-react/static/css/main.471d02a7.css",
+    "main.js": "/kittyfriends-react/static/js/main.f03130a4.js",
+    "static/media/SEGA.woff": "/kittyfriends-react/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/kittyfriends-react/index.html",
-    "static/css/2.c1f4f5f4.chunk.css.map": "/kittyfriends-react/static/css/2.c1f4f5f4.chunk.css.map",
-    "static/css/main.6f55125f.chunk.css.map": "/kittyfriends-react/static/css/main.6f55125f.chunk.css.map",
-    "static/js/2.563a13b7.chunk.js.LICENSE.txt": "/kittyfriends-react/static/js/2.563a13b7.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/kittyfriends-react/static/media/SEGA.47b4bfa9.woff"
+    "main.471d02a7.css.map": "/kittyfriends-react/static/css/main.471d02a7.css.map",
+    "main.f03130a4.js.map": "/kittyfriends-react/static/js/main.f03130a4.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.92bea783.js",
-    "static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.563a13b7.chunk.js",
-    "static/css/main.6f55125f.chunk.css",
-    "static/js/main.bcfb9b57.chunk.js"
+    "static/css/main.471d02a7.css",
+    "static/js/main.f03130a4.js"
   ]
 }
