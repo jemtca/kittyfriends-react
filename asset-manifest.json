@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kittyfriends-react/static/css/main.a2a90e0b.css",
-    "main.js": "/kittyfriends-react/static/js/main.6bb7737f.js",
+    "main.js": "/kittyfriends-react/static/js/main.a175ea91.js",
     "static/media/SEGA.woff": "/kittyfriends-react/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/kittyfriends-react/index.html",
     "main.a2a90e0b.css.map": "/kittyfriends-react/static/css/main.a2a90e0b.css.map",
-    "main.6bb7737f.js.map": "/kittyfriends-react/static/js/main.6bb7737f.js.map"
+    "main.a175ea91.js.map": "/kittyfriends-react/static/js/main.a175ea91.js.map"
   },
   "entrypoints": [
     "static/css/main.a2a90e0b.css",
-    "static/js/main.6bb7737f.js"
+    "static/js/main.a175ea91.js"
   ]
 }
